@@ -6,5 +6,5 @@ Set to release x64 and build it
 
 my discord id : darkness_pooya
   
-<img src="https://cdn.discordapp.com/attachments/1138045950481412156/1143876431810658325/Screenshot_5.png" alt="Darkness" width="500" height="600">
+<img src="https://cdn.discordapp.com/attachments/1138045950481412156/1143876431810658325/Screenshot_5.png" alt="Darkness" width="1919" height="1035">
 
